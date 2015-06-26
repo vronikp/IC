@@ -1,0 +1,9 @@
+C:\Users\PC\Documents\GitHub\InventoryCount\InventoryCount.SmartDevice\InventoryCount.SmartDevice\bin\Debug\InventoryCount.SmartDevice.exe
+C:\Users\PC\Documents\GitHub\InventoryCount\InventoryCount.SmartDevice\InventoryCount.SmartDevice\bin\Debug\InventoryCount.SmartDevice.pdb
+C:\Users\PC\Documents\GitHub\InventoryCount\InventoryCount.SmartDevice\InventoryCount.SmartDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\InventoryCount\InventoryCount.SmartDevice\InventoryCount.SmartDevice\obj\Debug\InventoryCount.SmartDevice.FrmInventario.resources
+C:\Users\PC\Documents\GitHub\InventoryCount\InventoryCount.SmartDevice\InventoryCount.SmartDevice\obj\Debug\InventoryCount.SmartDevice.FrmInicio.resources
+C:\Users\PC\Documents\GitHub\InventoryCount\InventoryCount.SmartDevice\InventoryCount.SmartDevice\obj\Debug\InventoryCount.SmartDevice.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\InventoryCount\InventoryCount.SmartDevice\InventoryCount.SmartDevice\obj\Debug\InventoryCount.SmartDevice.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\GitHub\InventoryCount\InventoryCount.SmartDevice\InventoryCount.SmartDevice\obj\Debug\InventoryCount.SmartDevice.exe
+C:\Users\PC\Documents\GitHub\InventoryCount\InventoryCount.SmartDevice\InventoryCount.SmartDevice\obj\Debug\InventoryCount.SmartDevice.pdb
